@@ -1,4 +1,3 @@
-# ee4272-prog1
 Program 1 for EE4272 Computer Networks, MTU, Fall 2019
 
 Tab width should be 4.
